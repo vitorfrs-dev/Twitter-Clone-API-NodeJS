@@ -3,3 +3,5 @@ node_modules
 # don't upload the keys
 .env
 
+# uploads
+uploads
